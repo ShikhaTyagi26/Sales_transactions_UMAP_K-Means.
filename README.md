@@ -69,7 +69,7 @@ distance-based algorithms such as K-Means.
 
 <hr>
 
-<h2>🧠 Methodology</h2>
+<h2>Methodology</h2>
 
 <h3>1. Principal Component Analysis (PCA)</h3>
 <p>
