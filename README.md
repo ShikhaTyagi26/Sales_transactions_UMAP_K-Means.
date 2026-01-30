@@ -46,7 +46,7 @@ dimensionality reduction and clustering techniques.
 
 <hr>
 
-<h2>📊 Dataset Description</h2>
+<h2>Dataset Description</h2>
 <p>
 The dataset contains transactional-level sales data including customer purchasing behaviour,
 transaction frequency, monetary value, and product-related attributes.
@@ -54,7 +54,7 @@ transaction frequency, monetary value, and product-related attributes.
 
 <hr>
 
-<h2>🧹 Data Preparation & Feature Engineering</h2>
+<h2>Data Preparation & Feature Engineering</h2>
 <ul>
   <li>Missing value handling and outlier inspection</li>
   <li>Aggregation of transaction-level data into customer-level features</li>
